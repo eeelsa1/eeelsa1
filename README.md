@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🩵 About Me
 - 🎓 Double major in **Digital Content & Technology** & **Arabic Language and Literature** at National Chengchi University (NCCU)  
 - 🛠  Building accessible, performant interfaces with **HTML5 · CSS3 · JavaScript · React**  
 - 🎨  Turning UX research (<kbd>Persona</kbd>, <kbd>Journey Map</kbd>, <kbd>Heatmap</kbd>) into pixel-perfect Figma prototypes  
