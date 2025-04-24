@@ -52,15 +52,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eeelsa1&show_icons=true&theme=default&hide=stars,issues" alt="Ming-Yuan Tsai's GitHub stats" />
-  <br>
-  <sub>(Replace <code>YOUR_USERNAME</code> with your GitHub ID)</sub>
-</p>
-
----
-
 ## ✉️ Get In Touch
 - LinkedIn：[**⟨link⟩**](https://www.linkedin.com/in/elsa-tsai-662a22271/)  
 
